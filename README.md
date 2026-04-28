@@ -1,6 +1,6 @@
 # C_ini-parser
 
-A small INI file parser written in C11 with a dot-notation CLI lookup. University assignment (CA-LLP).
+A small INI file parser written in C (C11) with a dot-notation CLI lookup. University assignment (CA-LLP).
 
 ## Format supported
 
